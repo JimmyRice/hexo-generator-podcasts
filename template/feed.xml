@@ -140,6 +140,8 @@
 			<duration>
 				{{episode.duration}}
 			</duration>
+			<itunes:episodeType>{{episode.episode_type}}</itunes:episodeType>
+			<itunes:season>{{episode.episode_number}}</itunes:season>
 		</item>
 		{% endfor %}
 	</channel>

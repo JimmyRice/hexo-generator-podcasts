@@ -8,6 +8,8 @@ image: /path/to/episode/image # same as above, but somehow itunes doesn't suppor
 length: 6989
 type: audio/mpeg
 duration: XX:YY:AA
+episode_type: full
+episode_number: 1
 chapter:
   [
     ["00:00:00.000", "Title 1"],
