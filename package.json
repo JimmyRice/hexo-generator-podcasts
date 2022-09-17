@@ -1,5 +1,5 @@
 {
-  "name": "hexo-generator-podcasts",
+  "name": "hexo-generator-podcasts-2",
   "version": "1.0.3",
   "description": "Hexo Generator for Podcast",
   "main": "dist/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bestony/hexo-generator-podcasts.git"
+    "url": "git+https://github.com/JimmyRice/hexo-generator-podcasts.git"
   },
   "keywords": [
     "hexo",
@@ -18,12 +18,12 @@
     "podcast",
     "hexo-generator"
   ],
-  "author": "Bestony <best.tony@foxmail.com>",
+  "author": "Jimmy0v0 <jimmy@mail.jimmy0w0.me>",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/bestony/hexo-generator-podcasts/issues"
+    "url": "https://github.com/JimmyRice/hexo-generator-podcasts/issues"
   },
-  "homepage": "https://github.com/bestony/hexo-generator-podcasts#readme",
+  "homepage": "https://github.com/JimmyRice/hexo-generator-podcasts#readme",
   "dependencies": {
     "hexo": "^4.2.1",
     "locutus": "^2.0.11",
